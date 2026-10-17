@@ -1,18 +1,14 @@
 # Fuck Daily Routines
 
-Edited and maintained by **Shura Mariel**.
-
-Custom Dalamud plugin distribution targeting **Dalamud API 15**.
+Fuck Daily Routines, free version of DR that recieves all premium features for free and without authentication
 
 ## Installation
 
-1. Open Dalamud Settings, then Experimental and Custom Plugin Repositories.
+1. Open Dalamud Settings by typing '/xlplugins' in game, then go to the Experimental tab and Custom Plugin Repositories.
 2. Add this repository URL:
 
    ```text
    https://raw.githubusercontent.com/shura-m/FuckDailyRoutines/main/FuckDailyRoutines.json
    ```
 
-3. Save, refresh the plugin installer and install **Fuck Daily Routines** from this repository.
-
-The internal plugin name remains `DailyRoutines`. This package requires a compatible API 15 host. Future releases are delivered through Dalamud's plugin installer using the same repository URL.
+3. Click on save at the bottom right, then look for and install **Fuck Daily Routines**
