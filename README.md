@@ -4,7 +4,7 @@ Fuck Daily Routines, free version of DR that recieves all premium features for f
 
 ## Installation
 
-1. Open Dalamud Settings by typing '/xlplugins' in game, then go to the Experimental tab and Custom Plugin Repositories.
+1. Open Dalamud Settings by typing `/xlplugins` in game, then go to the Experimental tab and Custom Plugin Repositories.
 2. Add this repository URL:
 
    ```text
