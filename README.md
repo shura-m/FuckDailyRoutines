@@ -3,6 +3,7 @@
 # Fuck Daily Routines
 
 Fuck Daily Routines, free version of DR that grants access to all premium features for free and without authentication, spyware, or unnecessary data collection
+This is my first time editing/making a plugin, let me know if there are any bugs
 
 ## Installation
 
