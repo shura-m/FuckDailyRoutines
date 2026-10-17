@@ -20,8 +20,8 @@
     "IconUrl": "https://raw.githubusercontent.com/shura-m/FuckDailyRoutines/main/images/icon.png",
     "Punchline": "Daily Routines but with all the predatory data collection removed and all premium features available free for all.",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/shura-m/FuckDailyRoutines/releases/download/1.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/shura-m/FuckDailyRoutines/releases/download/1.0.0/latest.zip",
+    "DownloadLinkInstall": "https://github.com/shura-m/FuckDailyRoutines/releases/download/v1.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/shura-m/FuckDailyRoutines/releases/download/v1.0.0/latest.zip",
     "LastUpdate": 1792234141,
     "IsHide": false,
     "IsTestingExclusive": false
