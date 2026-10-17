@@ -1,3 +1,4 @@
+<img src="images/icon.png" alt="Fuck Daily Routines icon" width="128" height="128">
 # Fuck Daily Routines
 
 Fuck Daily Routines, free version of DR that grants access to all premium features for free and without authentication, spyware, or unnecessary data collection
