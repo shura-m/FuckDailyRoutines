@@ -3,8 +3,8 @@
     "Author": "Shura Mariel",
     "Name": "Fuck Daily Routines",
     "InternalName": "DailyRoutines",
-    "AssemblyVersion": "1.0.0.0",
-    "Description": "Daily Routines but with all the predatory data collection removed and all premium features available free for all.",
+    "AssemblyVersion": "1.0.0.1",
+    "Description": "Fuck Daily Routines but with all the predatory data collection removed and all premium features available free for all.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/shura-m/FuckDailyRoutines",
     "Tags": [
@@ -18,11 +18,11 @@
     "CanUnloadAsync": false,
     "LoadPriority": 10000,
     "IconUrl": "https://raw.githubusercontent.com/shura-m/FuckDailyRoutines/main/images/icon.png",
-    "Punchline": "Daily Routines but with all the predatory data collection removed and all premium features available free for all.",
+    "Punchline": "Fuck Daily Routines but with all the predatory data collection removed and all premium features available free for all.",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/shura-m/FuckDailyRoutines/releases/download/v1.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/shura-m/FuckDailyRoutines/releases/download/v1.0.0/latest.zip",
-    "LastUpdate": 1792234141,
+    "DownloadLinkInstall": "https://github.com/shura-m/FuckDailyRoutines/releases/download/v1.0.0.1/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/shura-m/FuckDailyRoutines/releases/download/v1.0.0.1/latest.zip",
+    "LastUpdate": 1792540127,
     "IsHide": false,
     "IsTestingExclusive": false
   }
