@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/shura-m/FuckDailyRoutines/main/images/icon.png?v=1.0.0.1" alt="Fuck Daily Routines icon" width="128" height="128">
+<img src="images/icon.png?v=1.0.0.1" alt="Fuck Daily Routines icon" width="128" height="128">
 
 # Fuck Daily Routines
 
