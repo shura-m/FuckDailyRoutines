@@ -3,7 +3,7 @@
     "Author": "Shura Mariel",
     "Name": "Fuck Daily Routines",
     "InternalName": "FuckDailyRoutines",
-    "AssemblyVersion": "1.1.0.0",
+    "AssemblyVersion": "1.1.0.1",
     "Description": "Daily Routines but with all the predatory data collection removed and all premium features available free for all.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/shura-m/FuckDailyRoutines",
@@ -20,9 +20,9 @@
     "IconUrl": "https://raw.githubusercontent.com/shura-m/FuckDailyRoutines/main/images/icon.png",
     "Punchline": "and fuck Square Enix too",
     "AcceptsFeedback": false,
-    "DownloadLinkInstall": "https://github.com/shura-m/FuckDailyRoutines/releases/download/v1.1.0.0/release.zip",
-    "DownloadLinkUpdate": "https://github.com/shura-m/FuckDailyRoutines/releases/download/v1.1.0.0/release.zip",
-    "LastUpdate": 1793664515,
+    "DownloadLinkInstall": "https://github.com/shura-m/FuckDailyRoutines/releases/download/v1.1.0.1/release.zip",
+    "DownloadLinkUpdate": "https://github.com/shura-m/FuckDailyRoutines/releases/download/v1.1.0.1/release.zip",
+    "LastUpdate": 1794338887,
     "IsHide": false,
     "IsTestingExclusive": false
   }
