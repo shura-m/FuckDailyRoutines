@@ -23,6 +23,7 @@
     "DownloadLinkInstall": "https://github.com/shura-m/FuckDailyRoutines/releases/download/v1.1.1.0/release.zip",
     "DownloadLinkUpdate": "https://github.com/shura-m/FuckDailyRoutines/releases/download/v1.1.1.0/release.zip",
     "IsHide": false,
-    "IsTestingExclusive": false
+    "IsTestingExclusive": false,
+    "LastUpdate": 1794726333
   }
 ]
